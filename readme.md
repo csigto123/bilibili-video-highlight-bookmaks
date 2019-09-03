@@ -16,25 +16,25 @@
 
 拖动进度条到达想要的位置，点击键盘上的A触发标点。
 
-![](.\readmeimg\GIF2.gif)
+![GIFchange](https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIF2.gif)
 
 2.添加高亮点注释：
 
 移动鼠标到高亮点处，点击键盘的S，弹出输入框，输入注释，点击确认添加。
 
-![](.\readmeimg\GIFset.gif)
+![GIFchange](https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFset.gif)
 
 ##### 3.删除高亮点：
 
 移动鼠标到高亮点处，点击键盘的D，即可删除。
 
-![GIFdele](.\readmeimg\GIFdele.gif)
+![GIFchange](https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFdele.gif)
 
 ##### 4.改变已有注释：
 
 移动鼠标到高亮点处，点击键盘的S，弹出输入框，输入新注释，点击确认添加。
 
-![GIFchange](.\readmeimg\GIFchange.gif)
+![GIFchange](https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFchange.gif)
 
 ##### 5.未完后续添加其他功能：
 
