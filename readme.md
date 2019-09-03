@@ -18,7 +18,7 @@
 
 ![GIFchange](https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIF2.gif)
 
-2.添加高亮点注释：
+##### 2.添加高亮点注释：
 
 移动鼠标到高亮点处，点击键盘的S，弹出输入框，输入注释，点击确认添加。
 
