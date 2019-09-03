@@ -1,0 +1,23 @@
+div.bilibili-video-highlight {
+	width: 5px;
+	height: 3px;
+	background: #f25d8e;
+	position: absolute;
+	transition: transform .5s;
+	border-radius: 5px;
+	/* left:28.32097292335934%; */
+	opacity: 0.5;
+	margin-left: -2.5px;
+}
+
+.bilibili-player-video-progress-slider.bui.bui-slider:hover div.bilibili-video-highlight {
+	transform: scale(1.5);
+	opacity: 1;
+	/* transition:all .5s; */
+}
+
+
+div.bilibili-player-video-progress-detail-container span {
+	background-color: rgba(0, 0, 0, .62);
+	color: #fff;
+}

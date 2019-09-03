@@ -1,0 +1,26 @@
+{
+	"name": "B站视频进度条高亮注释",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "B站视频专用，视频进度条添加高亮点与文本注释，bilibili h5 video progress hightlight",
+	"browser_action": {
+		"default_icon": {
+			"19": "./icon/icon19.png"
+		},
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"48": "./icon/icon48.png"
+	},
+	"content_scripts": [{
+		"matches": ["https://www.bilibili.com/*"],
+		"css": ["./css/hightlight.css"],
+		"js": ["./js/jquery1.7.2.min.js", "./js/hightlight.js"]
+
+	}],
+	"permissions": ["tabs", "storage", "activeTab", "webRequest", "http://*/", "https://*/"],
+	"background": {
+		"scripts": ["./js/background.js"]
+	},
+	"homepage_url":"https://github.com/csigto123/bilibili-video-highlight-bookmaks"
+}
